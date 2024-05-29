@@ -5,6 +5,7 @@ import androidx.compose.ui.graphics.Color
 object Colors {
     val background = Color(0XFFF2EBFB)
     val board = Color(0XFFD4BBFC)
+    val buttonText = Color(0xFFC9B6E7)
 
     val numberColors = mapOf(
         0 to Color(0XFFEBD9FC),
